@@ -1,1 +1,3 @@
-# deb-bus
+# deb-b
+git status
+git hub
